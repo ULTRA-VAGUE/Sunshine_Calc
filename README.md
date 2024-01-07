@@ -1,3 +1,4 @@
+![Screenshot](screenshot.png)
 ## Sunshine Calc: Your Port Calculation Companion 🌞🔢🚀
 
 Sunshine Calc is a user-friendly GUI tool built with Python and tkinter. It calculates all the ports that need to be forwarded to successfully stream with Moonlight/Sunshine cloud streaming applications.
