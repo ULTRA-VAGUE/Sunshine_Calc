@@ -5,7 +5,9 @@ Sunshine Calc is a user-friendly GUI tool built with Python and tkinter. It calc
 
 ### Use Cases 💼
 
-If you plan to use Sunshine or Moonlight as a streaming tool When deploying a server on platforms like **[Tensordock](https://tensordock.com)**, you need to forward multiple ports to your host node. Manually calculating each port can be time-consuming and prone to errors. 
+If you plan to use Sunshine or Moonlight as a streaming tool When deploying a server on platforms like **[Tensordock](https://tensordock.com)**, you need to forward multiple ports to your host node. 
+
+Manually calculating each port can be time-consuming and prone to errors, which could lead to you not getting a VM because someone else was faster. 
 
 Sunshine Calc automates this process, providing you with the correct port numbers for Streaming with Sunshine / Moonlight quickly and accurately.
 
