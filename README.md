@@ -22,4 +22,4 @@ Sunshine Calc automates this process, providing you with the correct port number
 Please note that you need to enter an integer in the entry field. If you enter a non-integer value, an error message box will pop up. 🚫
 
 
-By automating the port calculation process, Sunshine Calc helps you set up your gameserver applications more efficiently, reducing the margin for error and saving you valuable time.  👏
+By automating the port calculation process, Sunshine Calc helps you set up your server more efficiently, reducing the margin for error and saving you valuable time.  👏
